@@ -1,0 +1,8 @@
+COIN_NAME="LeisureCoin"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="LeisureCoind"
+COIN_CLI="LeisureCoin-cli"
+COIN_FOLDER="/root/.LeisureCoin"
+COIN_CONFIG="LeisureCoin.conf"
+RPC_PORT=9334
+COIN_SERVICE="LeisureCoin.service"
