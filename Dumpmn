@@ -1,5 +1,8 @@
 #!/bin/bash
 
+apt-get install lsof
+apt-get install curl
+
 readonly GREEN='\e[1;32m'
 readonly YELLOW='\e[1;33m'
 readonly CYAN='\e[1;36m'
